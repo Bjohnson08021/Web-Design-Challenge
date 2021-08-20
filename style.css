@@ -1,6 +1,20 @@
 body{
-    color:white;
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
     background-image: url("https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_30/2510766/180726-earth-atmosphere-space-station-ew-553p.JPG");
     background-size: cover;
+   
+}
+tr{
+    color:rgb(10, 29, 197);
+    
+}
+
+.table-hover tbody tr:hover td {
+    background:turquoise;
+}
+
+body p {
+    color: white;
 }
 
